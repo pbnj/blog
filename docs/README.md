@@ -1,5 +1,3 @@
-# Blog
-
 - [Unit Test Your Configuration Files](blog/unit-test-your-configuration-files.md)
 - [Effective Security Programs](blog/effective-security-programs.md)
 - [Demystifying STRIDE Threat Models](blog/demystifying-stride-threat-models.md)
